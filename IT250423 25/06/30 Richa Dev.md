@@ -42,6 +42,17 @@ Research Source 1: [Microsoft Support - Troubleshoot Problems Opening Programs](
 
 
 Question 2
+# sites that are tutorials on Windows File Explorer:
+a. https://www.techradar.com/how-to/how-to-use-file-explorer-in-windows-11
+b.https://www.microsoft.com/en-us/windows/tips/file-explorer
+c.https://www.xda-developers.com/file-explorer-windows-11/
 
+# Comments on each Site:
+
+ a.TechRadar - TechRadar covers both basic and some advanced features of Windows 11 File Explorer, helping users customize and better navigate their files.
+
+ b. Microsoft Support - File Explorer in Windows 11 helps you get the files you need quickly and easily. 
+
+ c. XDA developers - File Explorer is one of the most crucial tools in Windows 11, as it lets you browse and manage files stored on your computer. This is the tool that allows you to browse all the files on your PC, so you can open, delete, rename them, and much more.
 
 
