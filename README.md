@@ -39,3 +39,7 @@ Research Source 1: [Microsoft Support - Troubleshoot Problems Opening Programs](
 
   Research Source 3: [How to Troubleshoot Windows 10 Apps](https://www.howtogeek.com/124948/how-to-troubleshoot-windows-10-apps/)
 - **Comments**:  It's perfect for users facing issues with applications like Excel, and the suggestions can be applied to both system-level and application-specific problems.
+
+
+Question 2
+
